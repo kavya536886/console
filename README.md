@@ -23,7 +23,7 @@
 
 <a href="https://www.flipkart.com">flipkart</a>
 </footer>
-<script src="https://www.w3schools.com/tags/att_script_src.asp">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js">
 </script>
 </body>
 </html>
